@@ -1,0 +1,3 @@
+CREATE TABLE category (
+id INTEGER PRIMARY KEY AUTOINCREMENT, name TEXT, sale_flg INTEGER
+);
